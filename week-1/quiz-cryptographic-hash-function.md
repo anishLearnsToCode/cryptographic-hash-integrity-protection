@@ -1,0 +1,6 @@
+![question-1](assets/crypto-hash-functions/question-1.PNG)
+![question-1](assets/crypto-hash-functions/question-2.PNG)
+![question-1](assets/crypto-hash-functions/question-3-4.PNG)
+![question-1](assets/crypto-hash-functions/question-5.PNG)
+![question-1](assets/crypto-hash-functions/question-6.PNG)
+![question-1](assets/crypto-hash-functions/question-7.PNG)

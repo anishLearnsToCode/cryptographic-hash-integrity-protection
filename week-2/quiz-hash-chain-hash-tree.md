@@ -1,3 +1,6 @@
-5 - 6
-6 - 6
-7 - 6
+![question-1](assets/hash-chain-hash-tree/question-1.PNG)
+![question-1](assets/hash-chain-hash-tree/question-2-3.PNG)
+![question-1](assets/hash-chain-hash-tree/question-4.PNG)
+![question-1](assets/hash-chain-hash-tree/question-5.PNG)
+![question-1](assets/hash-chain-hash-tree/question-6-7.PNG)
+![question-1](assets/hash-chain-hash-tree/question-8.PNG)

@@ -31,4 +31,5 @@ by the University of Colorado. This is the 4th and last course in this specializ
 - [Peer Graded Assignment: Public Key Cryptography for both confidentiality and Source Authentication](week-4/public-key-cryptography.md)
 - [Peer Graded Assignment: MAC vs. Digital Signature](week-4/mac-vs-digital-signature.md)
 
-## [🎓]() Certificate
+## [🎓](http://coursera.org/verify/XPG8L6K9URV9) Certificate
+![certificate](assets/certificate.PNG)

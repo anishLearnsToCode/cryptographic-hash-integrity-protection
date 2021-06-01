@@ -1,4 +1,4 @@
-![question-1](assets/question-1.PNG)
+![question-1](assets/question-1.png)
 ![question-2](assets/question-2.PNG)
 ![question-3](assets/question-3-4.PNG)
 ![question-5](assets/question-5.PNG)
